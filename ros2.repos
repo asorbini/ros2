@@ -254,7 +254,7 @@ repositories:
   ros2/rcl:
     type: git
     url: https://github.com/asorbini/rcl.git
-    version: asorbini/rmw_connextdds-transition
+    version: asorbini/rmw_connextdds
   ros2/rcl_interfaces:
     type: git
     url: https://github.com/ros2/rcl_interfaces.git
@@ -266,7 +266,7 @@ repositories:
   ros2/rclcpp:
     type: git
     url: https://github.com/asorbini/rclcpp.git
-    version: asorbini/rmw_connextdds-transition
+    version: asorbini/rmw_connextdds
   ros2/rclpy:
     type: git
     url: https://github.com/ros2/rclpy.git
@@ -310,7 +310,7 @@ repositories:
   ros2/rmw_implementation:
     type: git
     url: https://github.com/asorbini/rmw_implementation.git
-    version: asorbini/rmw_connextdds-transition
+    version: asorbini/rmw_connextdds
   ros2/ros1_bridge:
     type: git
     url: https://github.com/ros2/ros1_bridge.git
@@ -330,7 +330,7 @@ repositories:
   ros2/rosbag2:
     type: git
     url: https://github.com/asorbini/rosbag2.git
-    version: asorbini/rmw_connextdds-transition
+    version: asorbini/rmw_connextdds
   ros2/rosidl:
     type: git
     url: https://github.com/ros2/rosidl.git
@@ -382,7 +382,7 @@ repositories:
   ros2/system_tests:
     type: git
     url: https://github.com/asorbini/system_tests.git
-    version: asorbini/rmw_connextdds-transition
+    version: asorbini/rmw_connextdds
   ros2/test_interface_files:
     type: git
     url: https://github.com/ros2/test_interface_files.git
