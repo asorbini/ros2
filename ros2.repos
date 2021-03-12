@@ -253,7 +253,7 @@ repositories:
     version: master
   ros2/rcl:
     type: git
-    url: https://github.com/ros2/rcl.git
+    url: https://github.com/asorbini/rcl.git
     version: master
   ros2/rcl_interfaces:
     type: git
