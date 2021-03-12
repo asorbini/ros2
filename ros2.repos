@@ -254,7 +254,7 @@ repositories:
   ros2/rcl:
     type: git
     url: https://github.com/asorbini/rcl.git
-    version: master
+    version: asorbini/rcl_ret_timeout
   ros2/rcl_interfaces:
     type: git
     url: https://github.com/ros2/rcl_interfaces.git
